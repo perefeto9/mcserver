@@ -363,3 +363,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Oct2024 04:43:29.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -72.01200274374992,7.92248876807335,1.9400833701083684
 [24Oct2024 04:43:29.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -72.56103735909664,7.97235764112051,1.9099790147479325
 [24Oct2024 04:44:08.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!
+[24Oct2024 04:53:57.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 fell from a high place
+[24Oct2024 04:53:58.017] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[24Oct2024 04:56:50.494] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=140, y=-59, z=10}
+[24Oct2024 04:57:33.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!

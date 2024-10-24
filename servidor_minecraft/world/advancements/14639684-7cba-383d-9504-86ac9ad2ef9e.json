@@ -508,9 +508,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-10-24 04:56:53 +0000",
+      "minecraft:taiga": "2024-10-24 04:56:50 +0000",
       "minecraft:deep_ocean": "2024-10-12 16:33:54 +0000",
       "minecraft:eroded_badlands": "2024-10-13 21:49:57 +0000",
       "minecraft:sunflower_plains": "2024-10-08 21:50:56 +0000",
+      "minecraft:cherry_grove": "2024-10-24 04:55:39 +0000",
       "minecraft:birch_forest": "2024-10-23 23:54:48 +0000",
       "minecraft:wooded_badlands": "2024-10-12 20:28:08 +0000",
       "minecraft:bamboo_jungle": "2024-10-13 01:29:38 +0000",
@@ -527,6 +530,7 @@
       "minecraft:lush_caves": "2024-10-13 01:35:58 +0000",
       "minecraft:desert": "2024-10-12 16:58:42 +0000",
       "minecraft:ocean": "2024-10-08 21:53:20 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-10-24 04:57:02 +0000",
       "minecraft:windswept_savanna": "2024-10-08 21:51:06 +0000",
       "minecraft:warm_ocean": "2024-10-12 16:58:57 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-10-12 16:34:20 +0000",
