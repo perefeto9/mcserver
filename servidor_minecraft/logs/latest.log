@@ -385,3 +385,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Oct2024 05:10:11.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! 3.356730050784904,0.15149350614052537,12.015541312255664
 [24Oct2024 05:11:26.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!
 [24Oct2024 05:13:01.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7582ms or 151 ticks behind
+[24Oct2024 05:17:54.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -1.0364964142165718,0.5585834412699171,9.980786976981335
+[24Oct2024 05:17:54.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -1.0076296601910144,0.5953598986810391,10.606445225366542
+[24Oct2024 05:17:54.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -0.9743879822310646,0.632645271995159,11.231931595287733
+[24Oct2024 05:18:42.742] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-55, z=14}
+[24Oct2024 05:20:08.989] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-57, z=9}
+[24Oct2024 05:22:00.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!
+[24Oct2024 05:23:16.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!
