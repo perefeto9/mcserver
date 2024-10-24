@@ -579,6 +579,7 @@
       "minecraft:vindicator": "2024-10-12 19:24:59 +0000",
       "minecraft:magma_cube": "2024-10-14 03:17:16 +0000",
       "minecraft:spider": "2024-10-09 20:36:59 +0000",
+      "minecraft:piglin_brute": "2024-10-24 16:34:18 +0000",
       "minecraft:creeper": "2024-10-09 20:25:01 +0000",
       "minecraft:wither": "2024-10-16 17:55:28 +0000",
       "minecraft:slime": "2024-10-10 14:27:18 +0000",
@@ -6480,6 +6481,18 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-10-24 03:20:24 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-10-24 16:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-10-24 16:34:24 +0000"
     },
     "done": true
   },

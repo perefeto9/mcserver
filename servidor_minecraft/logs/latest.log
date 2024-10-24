@@ -197,3 +197,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Oct2024 16:23:43.542] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
 [24Oct2024 16:23:45.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
 [24Oct2024 16:24:02.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[24Oct2024 16:34:24.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [War Pigs]
+[24Oct2024 16:39:27.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 4.507749235599704,-3.246641007634338,16.722292095680018
+[24Oct2024 16:42:42.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
