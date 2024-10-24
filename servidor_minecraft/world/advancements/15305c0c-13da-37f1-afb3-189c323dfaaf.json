@@ -6423,6 +6423,30 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-10-24 03:11:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-10-24 03:11:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-10-24 03:11:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-10-24 03:11:33 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/crimson_ingot": {
     "criteria": {
       "has_item": "2024-10-24 03:15:31 +0000"
@@ -6435,21 +6459,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/building_blocks/verglas_block": {
-    "criteria": {
-      "has_item": "2024-10-24 03:11:33 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:demon_heart": {
     "criteria": {
       "items": "2024-10-24 03:15:31 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:verglas": {
-    "criteria": {
-      "item": "2024-10-24 03:11:33 +0000"
     },
     "done": true
   },
@@ -6459,21 +6471,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/skofnung_stone": {
-    "criteria": {
-      "has_item": "2024-10-24 03:11:33 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/decorations/crimson_obsidian": {
     "criteria": {
       "has_item": "2024-10-24 03:15:31 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/sting": {
-    "criteria": {
-      "has_item": "2024-10-24 03:11:33 +0000"
     },
     "done": true
   },
