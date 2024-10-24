@@ -230,3 +230,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Oct2024 02:46:02.698] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
 [24Oct2024 02:46:03.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Vindicator
 [24Oct2024 02:46:03.880] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[24Oct2024 02:52:12.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 0.9492818515541472,-1.995674757248139,17.260943718500585
+[24Oct2024 02:52:13.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2902ms or 58 ticks behind
