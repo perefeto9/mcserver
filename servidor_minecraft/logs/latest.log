@@ -1,86 +1,223 @@
-[24Oct2024 00:00:42.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!
-[24Oct2024 00:00:55.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[24Oct2024 00:01:12.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[24Oct2024 00:01:51.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2300ms or 46 ticks behind
-[24Oct2024 00:02:59.913] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1453, y=63, z=-1802} but found not block entity block Block{minecraft:air} at location
-[24Oct2024 00:02:59.914] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1453, y=63, z=-1802}
-[24Oct2024 00:03:01.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!
-[24Oct2024 00:03:58.589] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1657, y=68, z=-1717} but found not block entity block Block{minecraft:air} at location
-[24Oct2024 00:03:58.590] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1657, y=68, z=-1717}
-[24Oct2024 00:07:34.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -7.630411108447788,0.7705614336483109,-7.256794961220976
-[24Oct2024 00:07:34.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -8.080240809071256,0.8117866346414928,-7.67774705812576
-[24Oct2024 00:07:34.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -8.529894811252234,0.8526589978024504,-8.098551401950317
-[24Oct2024 00:07:34.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -8.979329038101696,0.8931980586546331,-8.51928184761232
-[24Oct2024 00:07:34.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -9.428501611180764,0.9334205823326158,-8.940007227796968
-[24Oct2024 00:07:34.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -9.877374279179094,0.9733401059048106,-9.360791586095502
-[24Oct2024 00:07:34.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -10.32591247837945,1.0129663004732663,-9.781693274835334
-[24Oct2024 00:07:34.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -10.774085810410497,1.0523045592638312,-10.202764757033947
-[24Oct2024 00:07:34.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -11.221868729643347,1.0913557222292525,-10.624052585064874
-[24Oct2024 00:07:34.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -11.669240715478963,1.1301158586723261,-11.04559723968191
-[24Oct2024 00:07:34.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -12.11618655293887,1.1685761888039963,-11.46743316384186
-[24Oct2024 00:07:34.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -12.562697067078943,1.2067232823075074,-11.889589494025131
-[24Oct2024 00:07:34.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -13.008768104376259,1.2445390117791817,-12.312089289459664
-[24Oct2024 00:07:34.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -13.454401490325381,1.2820010219548124,-12.734950688473191
-[24Oct2024 00:07:34.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -13.899604485601003,1.3190830840945296,-13.158187009760013
-[24Oct2024 00:07:34.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -14.34439028669567,1.3557557856827032,-13.581807941993475
-[24Oct2024 00:07:34.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -14.788776676713724,1.391986924219907,-14.005819063378794
-[24Oct2024 00:07:34.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -15.232786054995813,1.4277422960629167,-14.430222942148248
-[24Oct2024 00:07:34.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -15.676445520521838,1.4629865932707844,-14.855020232679635
-[24Oct2024 00:07:34.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -9.436365993720642,-14.49989604919142,-3.387705755439356
-[24Oct2024 00:07:34.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -16.119785462757818,1.4976840827228273,-15.280209628004286
-[24Oct2024 00:07:34.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -16.562839597825587,1.5317995974608891,-15.705789119965402
-[24Oct2024 00:07:34.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -17.005643954820016,1.5652993856790545,-16.13175645702131
-[24Oct2024 00:07:34.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -17.448235846188027,1.5981519385578054,-16.558109484912848
-[24Oct2024 00:07:34.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -17.89065421694022,1.6303291176619723,-16.984847792237588
-[24Oct2024 00:07:34.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -18.33293789343361,1.6618068331750635,-17.41197245848184
-[24Oct2024 00:07:34.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[24Oct2024 00:07:34.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -11.594673183940813,0.9636040251111524,-11.003869638549077
-[24Oct2024 00:07:34.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -12.036800746811423,0.9936310289546952,-11.431780012260788
-[24Oct2024 00:07:34.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -12.478903498401678,1.022918839077704,-11.860095850688367
-[24Oct2024 00:07:37.386] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-53, z=10}
-[24Oct2024 00:08:11.159] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=88, y=-56, z=10}
-[24Oct2024 00:08:22.072] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1865, y=71, z=-1713} but found not block entity block Block{treasure2:witherwood_log}[axis=y] at location
-[24Oct2024 00:08:22.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{treasure2:witherwood_log}[axis=y] but failed at location BlockPos{x=-1865, y=71, z=-1713}
-[24Oct2024 00:08:28.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -10.275152257023365,-2.0113817088817996,-0.3603622961259134
-[24Oct2024 00:08:28.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -11.068818324848962,-2.1593503190952816,-0.3862597483207537
-[24Oct2024 00:08:28.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -11.86250680722037,-2.3066222053313936,-0.41166883096593665
-[24Oct2024 00:08:28.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -12.65613819934265,-2.453293945496057,-0.43657689989822757
-[24Oct2024 00:08:28.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -13.449639255007469,-2.5994635362117293,-0.46098300406401904
-[24Oct2024 00:08:28.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -14.24294360298859,-2.7452296828469542,-0.4848983500066879
-[24Oct2024 00:08:28.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -15.035992126184055,-2.8906907600514984,-0.5083465754898953
-[24Oct2024 00:08:28.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -15.82873380821411,-3.0359436872353456,-0.5313637679521435
-[24Oct2024 00:08:28.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -16.621126291729297,-3.181100102760041,-0.5539983137700801
-[24Oct2024 00:08:28.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -17.413137601761036,-3.3262905062210706,-0.576310482934332
-[24Oct2024 00:08:28.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 16.12556814951313,-4.461321771744039,-5.217015263351186
-[24Oct2024 00:08:28.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -18.204747447464797,-3.4716365132734097,-0.5983718627455801
-[24Oct2024 00:08:28.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -18.995947043921205,-3.617248799450138,-0.6202645479909279
-[24Oct2024 00:08:28.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -19.786739301524676,-3.7632252377907065,-0.6420801336887507
-[24Oct2024 00:08:28.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -20.577137564256418,-3.90964905684487,-0.6639184552332154
-[24Oct2024 00:08:28.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -21.367165167102485,-4.056587397859872,-0.6858862971796498
-[24Oct2024 00:08:28.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -22.156854818934562,-4.204090108165175,-0.7080959010716015
-[24Oct2024 00:08:28.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -22.94624756244525,-4.352188782634116,-0.7306633793612036
-[24Oct2024 00:08:28.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -23.735391245895244,-4.500896062251584,-0.7537070483106163
-[24Oct2024 00:08:28.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -24.52433995429419,-4.650205419967335,-0.777345745335424
-[24Oct2024 00:08:28.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -25.313152056462968,-4.800091041140362,-0.8016970159992525
-[24Oct2024 00:08:28.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -26.101889501208234,-4.950508245195721,-0.8268754205676032
-[24Oct2024 00:08:28.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -26.890616053186477,-5.101394037167751,-0.8529907287911556
-[24Oct2024 00:08:28.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -27.679396263363515,-5.252668079949316,-0.8801462203925894
-[24Oct2024 00:08:28.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -28.468293765126873,-5.404233824916162,-0.908437135611166
-[24Oct2024 00:08:28.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -29.25737005080464,-5.555980002690916,-0.9379490811461437
-[24Oct2024 00:08:28.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Seta33) moved too quickly! -30.04668336712143,-5.707782328186767,-0.9687566372354013
-[24Oct2024 00:08:28.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15070ms or 301 ticks behind
-[24Oct2024 00:08:42.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!
-[24Oct2024 00:09:02.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
-[24Oct2024 00:09:02.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 12.239331699461957,8.789187524437978,9.738179819199559
-[24Oct2024 00:09:08.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 17.373959838564872,-2.537771367112157,-3.4878282421068434
-[24Oct2024 00:09:18.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved wrongly!
-[24Oct2024 00:09:37.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved wrongly!
-[24Oct2024 00:09:58.529] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-116, y=63, z=-1060} but found not block entity block Block{treasure2:skull_and_crossbones}[facing=east] at location
-[24Oct2024 00:09:58.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{treasure2:skull_and_crossbones}[facing=east] but failed at location BlockPos{x=-116, y=63, z=-1060}
-[24Oct2024 00:10:00.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 12.244901478956237,-2.6416363852584936,12.709375221688788
-[24Oct2024 00:10:03.857] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-53, z=10}
-[24Oct2024 00:10:32.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 8.443483127878949,13.873466184518918,7.287639582871179
-[24Oct2024 00:10:52.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 12.307236666558737,-2.5863428380882567,14.256435895601385
-[24Oct2024 00:11:00.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 12.530680006902628,-2.861935930736607,12.928706624552206
-[24Oct2024 00:11:06.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 12.611823730811977,-3.3889679252215075,12.138904826962744
-[24Oct2024 00:11:13.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved wrongly!
+[24Oct2024 02:11:18.560] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[24Oct2024 02:11:18.565] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[24Oct2024 02:11:20.026] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Oct2024 02:11:20.114] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mcserver/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Oct2024 02:11:21.662] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mcserver/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[24Oct2024 02:11:21.667] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mcserver/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[24Oct2024 02:11:21.668] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mcserver/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[24Oct2024 02:11:21.686] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mcserver/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[24Oct2024 02:11:22.135] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[24Oct2024 02:11:22.137] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[24Oct2024 02:11:29.641] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Oct2024 02:11:30.532] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[24Oct2024 02:11:30.719] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Oct2024 02:11:35.923] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
+[24Oct2024 02:11:56.276] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[24Oct2024 02:11:56.276] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[24Oct2024 02:11:58.823] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.827] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.828] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.832] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.834] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.843] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.845] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.847] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.852] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.854] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.858] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.864] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.866] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.868] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.870] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.878] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.879] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.880] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.882] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.885] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:11:58.886] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[24Oct2024 02:12:00.401] [main/INFO] [treasure2/]: colliding particle data creating from coords, deserializer...
+[24Oct2024 02:12:00.401] [main/INFO] [treasure2/]: colliding particle data creating from coords, deserializer...
+[24Oct2024 02:12:02.898] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
+[24Oct2024 02:12:02.899] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
+[24Oct2024 02:12:02.900] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
+[24Oct2024 02:12:04.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/1.20.1-main/update.json
+[24Oct2024 02:12:04.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Found status: UP_TO_DATE Current: 3.10.3 Target: null
+[24Oct2024 02:12:04.742] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[24Oct2024 02:12:04.816] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[24Oct2024 02:12:04.820] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[24Oct2024 02:12:04.825] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[24Oct2024 02:12:04.827] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[24Oct2024 02:12:04.889] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[24Oct2024 02:12:04.914] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[24Oct2024 02:12:04.919] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[24Oct2024 02:12:04.921] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[24Oct2024 02:12:04.922] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[24Oct2024 02:12:04.922] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[24Oct2024 02:12:04.935] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 20 compatible attributes.
+[24Oct2024 02:12:04.937] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 20 values from config.
+[24Oct2024 02:12:04.947] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 20 entries.
+[24Oct2024 02:12:04.948] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 20 attributes.
+[24Oct2024 02:12:05.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[24Oct2024 02:12:05.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24Oct2024 02:12:05.151] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.3 Target: 8.8.1
+[24Oct2024 02:12:05.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.20.1-main/update.json
+[24Oct2024 02:12:05.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Found status: AHEAD Current: 2.2.0 Target: null
+[24Oct2024 02:12:05.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Oct2024 02:12:05.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[24Oct2024 02:12:05.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[24Oct2024 02:12:05.391] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.2.0.jar%23164!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.0.jar%23164!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[24Oct2024 02:12:14.582] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Oct2024 02:12:20.944] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mcserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/assets/.mcassetsroot' uses unexpected schema
+[24Oct2024 02:12:20.948] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mcserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/data/.mcassetsroot' uses unexpected schema
+[24Oct2024 02:12:27.459] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:treasure2:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.2.0-universal.jar%23168!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.2.0-universal.jar%23168!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[24Oct2024 02:12:29.513] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[24Oct2024 02:12:29.838] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[24Oct2024 02:12:29.889] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[24Oct2024 02:12:29.896] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[24Oct2024 02:12:29.906] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[24Oct2024 02:12:29.930] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[24Oct2024 02:12:30.018] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[24Oct2024 02:12:30.025] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[24Oct2024 02:12:30.030] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[24Oct2024 02:12:30.644] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2278 advancements
+[24Oct2024 02:12:30.705] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[24Oct2024 02:12:30.726] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[24Oct2024 02:12:30.761] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[24Oct2024 02:12:35.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Oct2024 02:12:35.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Oct2024 02:12:35.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Oct2024 02:12:35.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Oct2024 02:12:36.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Oct2024 02:12:36.306] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Oct2024 02:12:36.546] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Oct2024 02:12:36.552] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Oct2024 02:12:36.554] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Oct2024 02:12:36.559] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Oct2024 02:12:36.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Oct2024 02:12:39.413] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[24Oct2024 02:12:39.424] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[24Oct2024 02:12:39.439] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[24Oct2024 02:12:50.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Oct2024 02:12:58.058] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:12:58.084] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:12:58.097] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:12:58.100] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:12:58.109] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.084] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.087] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.102] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.106] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.108] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.108] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.116] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.117] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.119] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.120] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.121] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.122] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.123] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.135] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.167] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.168] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.168] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.175] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.483] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:03.994] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:04.748] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:04.997] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:05.477] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:06.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:06.488] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:06.978] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:07.478] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:07.978] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:08.477] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:08.986] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:09.476] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:10.168] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Oct2024 02:13:10.806] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 20330 ms
+[24Oct2024 02:13:10.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (34.220s)! For help, type "help"
+[24Oct2024 02:13:10.919] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Oct2024 02:13:38.992] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[24Oct2024 02:13:40.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.67.127.145:52179] logged in with entity id 468 at (567.3505529704918, 70.0, -630.849856269011)
+[24Oct2024 02:13:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[24Oct2024 02:13:40.816] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[24Oct2024 02:13:47.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8359ms or 167 ticks behind
+[24Oct2024 02:14:10.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7669ms or 153 ticks behind
+[24Oct2024 02:14:28.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3673ms or 73 ticks behind
+[24Oct2024 02:20:31.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -0.6599093657933963,-1.693035059050274,18.168460601190873
+[24Oct2024 02:23:08.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[24Oct2024 02:23:08.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[24Oct2024 02:24:01.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.67.127.145:49235] logged in with entity id 5615 at (116.30000001192093, 224.0, 19.772442832842287)
+[24Oct2024 02:24:01.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[24Oct2024 02:24:01.709] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[24Oct2024 02:25:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has reached the goal [To be or not to be]
+[24Oct2024 02:29:48.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has reached the goal [Expert Tasting]

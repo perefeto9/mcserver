@@ -6402,5 +6402,17 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2024-10-24 02:21:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2024-10-24 02:25:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
