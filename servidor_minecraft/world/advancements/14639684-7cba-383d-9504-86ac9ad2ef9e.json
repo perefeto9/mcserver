@@ -6034,5 +6034,23 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-10-24 05:29:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2024-10-24 05:34:25 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-10-24 05:32:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
