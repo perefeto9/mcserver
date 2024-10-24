@@ -2261,3 +2261,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Oct2024 17:03:26.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Oct2024 17:03:26.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Oct2024 17:03:44.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[24Oct2024 17:05:33.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has completed the challenge [Oh, The Misery]
+[24Oct2024 17:05:37.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has completed the challenge [Steeped in Strength]
+[24Oct2024 17:08:28.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Oct2024 17:08:28.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Oct2024 17:10:41.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has reached the goal [My Brother]
+[24Oct2024 17:13:28.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Oct2024 17:13:28.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
