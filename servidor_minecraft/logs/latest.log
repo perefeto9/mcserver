@@ -227,3 +227,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Oct2024 02:39:40.055] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-55, z=14}
 [24Oct2024 02:41:27.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-72, y=64, z=512} but found not block entity block Block{minecraft:air} at location
 [24Oct2024 02:41:27.119] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-72, y=64, z=512}
+[24Oct2024 02:46:02.698] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[24Oct2024 02:46:03.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Vindicator
+[24Oct2024 02:46:03.880] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
