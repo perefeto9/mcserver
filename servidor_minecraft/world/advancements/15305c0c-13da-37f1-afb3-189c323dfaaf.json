@@ -6319,10 +6319,11 @@
       "eat_lollipop_3": "2024-10-20 22:32:21 +0000",
       "eat_lollipop_4": "2024-10-20 22:32:18 +0000",
       "eat_lollipop_1": "2024-10-20 22:28:04 +0000",
+      "eat_lollipop_2": "2024-10-24 02:29:48 +0000",
       "eat_lollipop_0": "2024-10-20 23:07:30 +0000",
       "eat_lollipop_5": "2024-10-20 22:52:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/first_pray": {
     "criteria": {
