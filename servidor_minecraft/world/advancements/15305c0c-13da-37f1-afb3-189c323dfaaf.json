@@ -4657,9 +4657,10 @@
       "minecraft:crimson_forest": "2024-10-14 03:42:11 +0000",
       "minecraft:nether_wastes": "2024-10-14 03:38:20 +0000",
       "minecraft:soul_sand_valley": "2024-10-24 03:18:19 +0000",
-      "minecraft:warped_forest": "2024-10-15 22:39:46 +0000"
+      "minecraft:warped_forest": "2024-10-15 22:39:46 +0000",
+      "minecraft:basalt_deltas": "2024-10-24 03:22:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
@@ -6473,6 +6474,12 @@
   "soulsweapons:recipes/combat/sting": {
     "criteria": {
       "has_item": "2024-10-24 03:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-10-24 03:20:24 +0000"
     },
     "done": true
   },
