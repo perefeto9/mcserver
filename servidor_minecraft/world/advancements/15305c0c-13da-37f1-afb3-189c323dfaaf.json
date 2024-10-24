@@ -6390,5 +6390,17 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/holy_greatsword": {
+    "criteria": {
+      "has_item": "2024-10-24 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_ingot_from_chipped_short_sword": {
+    "criteria": {
+      "has_weapon": "2024-10-24 00:02:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
