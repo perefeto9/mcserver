@@ -6496,5 +6496,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-10-24 16:44:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
