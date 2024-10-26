@@ -514,6 +514,7 @@
       "minecraft:taiga": "2024-10-24 04:56:50 +0000",
       "minecraft:deep_ocean": "2024-10-12 16:33:54 +0000",
       "minecraft:eroded_badlands": "2024-10-13 21:49:57 +0000",
+      "minecraft:frozen_river": "2024-10-26 02:36:21 +0000",
       "minecraft:sunflower_plains": "2024-10-08 21:50:56 +0000",
       "minecraft:cherry_grove": "2024-10-24 04:55:39 +0000",
       "minecraft:birch_forest": "2024-10-23 23:54:48 +0000",
@@ -526,16 +527,22 @@
       "minecraft:lukewarm_ocean": "2024-10-08 21:53:37 +0000",
       "minecraft:river": "2024-10-08 21:22:28 +0000",
       "minecraft:stony_shore": "2024-10-13 22:07:39 +0000",
+      "minecraft:snowy_plains": "2024-10-26 02:38:58 +0000",
       "minecraft:dripstone_caves": "2024-10-13 21:51:52 +0000",
       "minecraft:snowy_taiga": "2024-10-20 23:55:38 +0000",
       "minecraft:grove": "2024-10-24 05:10:00 +0000",
+      "minecraft:swamp": "2024-10-26 02:23:56 +0000",
       "minecraft:cold_ocean": "2024-10-25 01:25:01 +0000",
       "minecraft:forest": "2024-10-08 21:54:20 +0000",
       "minecraft:lush_caves": "2024-10-13 01:35:58 +0000",
       "minecraft:deep_cold_ocean": "2024-10-25 01:25:33 +0000",
+      "minecraft:ice_spikes": "2024-10-26 03:02:16 +0000",
+      "minecraft:frozen_ocean": "2024-10-26 02:37:13 +0000",
       "minecraft:desert": "2024-10-12 16:58:42 +0000",
+      "minecraft:deep_frozen_ocean": "2024-10-26 02:37:20 +0000",
       "minecraft:ocean": "2024-10-08 21:53:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-10-24 04:57:02 +0000",
+      "minecraft:snowy_beach": "2024-10-26 02:39:25 +0000",
       "minecraft:windswept_savanna": "2024-10-08 21:51:06 +0000",
       "minecraft:warm_ocean": "2024-10-12 16:58:57 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-10-12 16:34:20 +0000",
@@ -857,6 +864,7 @@
       "cooked_porkchop": "2024-10-08 23:07:02 +0000",
       "cooked_mutton": "2024-10-09 00:20:46 +0000",
       "cooked_beef": "2024-10-08 21:29:37 +0000",
+      "chorus_fruit": "2024-10-26 16:30:54 +0000",
       "apple": "2024-10-08 22:11:33 +0000",
       "pumpkin_pie": "2024-10-11 23:04:18 +0000",
       "bread": "2024-10-08 22:10:49 +0000",
@@ -866,6 +874,7 @@
       "cookie": "2024-10-11 22:30:45 +0000",
       "melon_slice": "2024-10-11 01:07:31 +0000",
       "golden_carrot": "2024-10-09 18:46:27 +0000",
+      "cod": "2024-10-26 02:53:55 +0000",
       "carrot": "2024-10-15 15:50:47 +0000"
     },
     "done": false
@@ -6131,7 +6140,8 @@
   "soulsweapons:all_weapons": {
     "criteria": {
       "guts": "2024-10-24 23:22:22 +0000",
-      "darkin_blade": "2024-10-25 00:17:47 +0000"
+      "darkin_blade": "2024-10-25 00:17:47 +0000",
+      "nightfall": "2024-10-26 01:32:25 +0000"
     },
     "done": false
   },
@@ -6870,6 +6880,150 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-10-25 20:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-10-26 01:29:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:nightfall": {
+    "criteria": {
+      "weapon": "2024-10-26 01:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-10-26 01:33:57 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2024-10-26 01:54:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:arkenplate": {
+    "criteria": {
+      "items": "2024-10-26 01:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-10-26 02:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-10-26 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-10-26 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-10-26 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-10-26 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_chest": {
+    "criteria": {
+      "has_item": "2024-10-26 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
+    "criteria": {
+      "has_item": "2024-10-26 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:dream_on": {
+    "criteria": {
+      "fall": "2024-10-26 02:26:53 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2024-10-26 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_ancient_anima": "2024-10-26 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2024-10-26 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-10-26 02:54:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2024-10-26 14:50:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-10-26 14:57:01 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2024-10-26 15:02:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2024-10-26 15:20:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-10-26 15:34:11 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-10-26 16:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-10-26 16:05:23 +0000"
     },
     "done": true
   },
