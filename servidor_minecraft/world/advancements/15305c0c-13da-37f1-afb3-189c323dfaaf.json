@@ -500,6 +500,7 @@
       "cooked_porkchop": "2024-10-08 22:10:04 +0000",
       "cooked_mutton": "2024-10-08 21:49:01 +0000",
       "cooked_beef": "2024-10-09 20:14:41 +0000",
+      "baked_potato": "2024-10-24 17:33:37 +0000",
       "apple": "2024-10-09 20:00:25 +0000",
       "cooked_cod": "2024-10-13 03:02:26 +0000",
       "bread": "2024-10-08 23:10:41 +0000",
@@ -2144,6 +2145,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-10-12 18:53:12 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-10-25 01:43:58 +0000",
+      "minecraft:mushroom_fields": "2024-10-25 01:36:19 +0000",
       "minecraft:taiga": "2024-10-21 00:12:00 +0000",
       "minecraft:deep_ocean": "2024-10-12 16:33:59 +0000",
       "minecraft:eroded_badlands": "2024-10-13 00:40:25 +0000",
@@ -2156,6 +2159,7 @@
       "minecraft:beach": "2024-10-12 16:01:40 +0000",
       "minecraft:dark_forest": "2024-10-12 17:48:29 +0000",
       "minecraft:mangrove_swamp": "2024-10-13 02:33:11 +0000",
+      "minecraft:sparse_jungle": "2024-10-25 01:32:22 +0000",
       "minecraft:river": "2024-10-09 21:40:16 +0000",
       "minecraft:lukewarm_ocean": "2024-10-12 16:34:17 +0000",
       "minecraft:stony_shore": "2024-10-12 17:19:30 +0000",
@@ -2165,12 +2169,17 @@
       "minecraft:grove": "2024-10-23 01:25:20 +0000",
       "minecraft:cold_ocean": "2024-10-12 17:27:18 +0000",
       "minecraft:forest": "2024-10-09 21:59:57 +0000",
+      "minecraft:lush_caves": "2024-10-25 02:22:44 +0000",
+      "minecraft:deep_cold_ocean": "2024-10-25 01:42:20 +0000",
+      "minecraft:frozen_ocean": "2024-10-25 01:45:46 +0000",
       "minecraft:desert": "2024-10-12 16:42:25 +0000",
+      "minecraft:deep_frozen_ocean": "2024-10-25 01:49:17 +0000",
       "minecraft:ocean": "2024-10-12 16:33:35 +0000",
       "minecraft:jungle": "2024-10-12 19:04:05 +0000",
       "minecraft:snowy_beach": "2024-10-19 02:07:03 +0000",
       "minecraft:warm_ocean": "2024-10-12 16:58:53 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-10-12 17:06:50 +0000",
+      "minecraft:flower_forest": "2024-10-24 17:23:15 +0000",
       "minecraft:frozen_peaks": "2024-10-23 01:25:21 +0000",
       "minecraft:old_growth_birch_forest": "2024-10-12 17:44:03 +0000",
       "minecraft:deep_dark": "2024-10-22 17:46:21 +0000",
@@ -6484,6 +6493,30 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-10-24 16:34:24 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-10-24 16:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-10-24 16:44:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "soulsweapons:accursed_lord_boss": "2024-10-24 17:05:33 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/moonlight_greatsword": {
     "criteria": {
       "has_lord_soul": "2024-10-24 17:05:37 +0000"
@@ -6493,12 +6526,6 @@
   "soulsweapons:recipes/combat/dragonslayer_swordspear": {
     "criteria": {
       "has_item": "2024-10-24 17:05:37 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/withered_chest": {
-    "criteria": {
-      "has_item": "2024-10-24 17:05:41 +0000"
     },
     "done": true
   },
@@ -6514,12 +6541,6 @@
     },
     "done": true
   },
-  "soulsweapons:end_of_reigns": {
-    "criteria": {
-      "soulsweapons:accursed_lord_boss": "2024-10-24 17:05:33 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2024-10-24 17:05:37 +0000"
@@ -6531,13 +6552,6 @@
       "has_item": "2024-10-24 17:05:37 +0000"
     },
     "done": true
-  },
-  "soulsweapons:all_weapons": {
-    "criteria": {
-      "guts": "2024-10-24 17:10:41 +0000",
-      "darkin_blade": "2024-10-24 17:05:41 +0000"
-    },
-    "done": false
   },
   "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
@@ -6554,12 +6568,6 @@
   "soulsweapons:recipes/combat/draupnir_spear": {
     "criteria": {
       "has_item": "2024-10-24 17:05:37 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/guts_sword": {
-    "criteria": {
-      "has_item": "2024-10-24 16:34:33 +0000"
     },
     "done": true
   },
@@ -6617,12 +6625,6 @@
     },
     "done": true
   },
-  "soulsweapons:heap_of_iron": {
-    "criteria": {
-      "soulsweapons:guts_sword": "2024-10-24 17:10:41 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/galeforce": {
     "criteria": {
       "has_item": "2024-10-24 17:05:37 +0000"
@@ -6632,18 +6634,6 @@
   "soulsweapons:recipes/combat/rageblade": {
     "criteria": {
       "has_item": "2024-10-24 17:05:37 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
-    "criteria": {
-      "has_item": "2024-10-24 17:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2024-10-24 16:34:24 +0000"
     },
     "done": true
   },
@@ -6689,9 +6679,257 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "soulsweapons:recipes/combat/withered_chest": {
     "criteria": {
-      "has_warped_fungus": "2024-10-24 16:44:04 +0000"
+      "has_item": "2024-10-24 17:05:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "guts": "2024-10-24 17:10:41 +0000",
+      "galeforce": "2024-10-25 01:07:36 +0000",
+      "darkin_blade": "2024-10-24 17:05:41 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
+    "criteria": {
+      "has_item": "2024-10-24 17:05:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:heap_of_iron": {
+    "criteria": {
+      "soulsweapons:guts_sword": "2024-10-24 17:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-10-24 17:24:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2024-10-24 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-24 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-24 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-24 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-24 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-24 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-24 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-10-24 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2024-10-24 19:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-10-24 19:30:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-10-24 19:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-10-25 00:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-10-25 00:28:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2024-10-25 01:01:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2024-10-25 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-10-25 01:32:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-10-25 01:35:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-10-25 01:44:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2024-10-25 02:09:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2024-10-25 02:09:01 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-10-25 02:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-10-25 02:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-10-25 02:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2024-10-25 03:10:59 +0000"
     },
     "done": true
   },
